@@ -10,6 +10,16 @@ body {
   background-position: top center;
 }
 
+.app-wrap h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: flex;
+  justify-content: center;
+  color: #eeeeee;
+  padding-top: 90px;
+  font-size: 32px;
+  font-weight: 500;
+
+}
 
 .app-wrap {
   display: flex;
