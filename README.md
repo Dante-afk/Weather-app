@@ -1,20 +1,20 @@
-#Weather App
+# Weather App
 
 This is a basic weather app created using HTML, CSS and JavaScript.
 
-##Table of Contents
+## Table of Contents
 - [Overview](#Overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
 
 
-##Overview
+## Overview
 
-###screenshot
+### Screenshot
 ![Screenshot](Weatherapp.png)
 
-###Links
+### Links
 - Solution URL: [Github](https://github.com/Dante-afk/Weather-app)
 - Live Site URL: [Live solution](https://weather-app-dante-afk.vercel.app/)
 
